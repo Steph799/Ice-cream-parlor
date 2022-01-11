@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+}
+.contactForm {
+  width: 100%;
+  display: flex;
+  height: 5.5rem;
+}
+
+.form-control {
+  margin-right: 1.5rem;
+  width: 14rem;
+}
+
+.iceCreams {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 1rem;
+  opacity: 1;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-image: url("./images/about_us.png");
+}
+
+.cardContent {
+  background-color: darkseagreen;
+}
+
+.homepage {
+  background-image: url("./images/homepage_img.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 86vh;
+  padding: 1rem;
+}
+.contact {
+  float: left;
+  background-color: ghostwhite;
+  min-width: 100%;
+}
+
+.textAreaControl {
+  width: 32rem;
+  height: 6rem;
+}
+
+footer {
+  text-align: center;
+  background-color: darkred;
+  margin-bottom: 0;
+  bottom: 0;
+
+  padding-bottom: 1rem;
+  width: 100%;
+}
+footer span {
+  color: white;
+  margin-top: 0;
+}
+
+.paragraph {
+  text-align: left;
+  font-weight: bold;
+  line-height: 1.5em;
+  color:black;
+}
+
+.bottom {
+  margin-bottom: 0;
+  bottom: 0;
+  position: relative;
+  width: 100%;
+  line-height: 1.5;
+  letter-spacing: normal;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.news {
+  margin-left: 1rem;
+  color: white;
+}
+
+.news p {
+  color: yellowgreen;
+  width: 30%;
+  font-weight: bold
+}
+
+
+.news span {
+  color: lawngreen;
+}
+
+.header {
+  text-align: center;
+  color:gold;
+  font-size: 2vw;
+}
+
+.header h1,
+h2 {
+  margin: 0;
+}
+
+.header h1 {
+  font-family: cursive;
+}
+
+.ice-cream-per-weight {
+  background-image: url("https://foodsguy.com/wp-content/uploads/2020/07/Best-Ice-Cream-Containers.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 50rem;
+}
+
+.time {
+  width: 10rem;
+  background-color: lightgray;
+}
+
+.employeeCard:hover {
+  background-color: yellow;
+}
+
+.icecreamIcon{
+  color: brown;
+ 
+}
+
+.thirdSection{
+  display: flex;
+  justify-content: space-between;
+}
+
+.cardHeader{
+    text-align: center
+}
